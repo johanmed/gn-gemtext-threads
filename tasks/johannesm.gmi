@@ -15,20 +15,23 @@ assigned:jom
 
 * Get actual metadata with SPARQL endpoint
 
+* Try out agent
+
 
 ### Later
 
 * Catch up on LMDB
+
+*[x] Catch up on SPARQL
 
 
 ### Past
 
 *[x] Make RAG script available for reuse and clean it with Bonface
 
-*[x] Catch up on SPARQL
-
 *[x] Discuss with Bonface on how to get metadata for RAG
 
 *[x] Pickle RAG
 
 *[x] Try out SPARQLWrapper
+
