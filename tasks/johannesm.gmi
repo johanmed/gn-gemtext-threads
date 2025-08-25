@@ -9,20 +9,21 @@ assigned:jom
 
 ### Ongoing
 
-* Optimize RAG
+*[x] Study precompute issue
 
-*[~] Integrate with RAG
+*[x] Play with the SPARQL endpoint for BXD traits
 
-* Get actual metadata with SPARQL endpoint
+*[x] Try out RAG and agent prototype
 
-* Try out agent
+*[x] Transform RDF to plain language using an agent (LLM)
 
+*[x] Make the system multi-agentic
 
 ### Later
 
-* Catch up on LMDB
+*[~] Catch up on LMDB
 
-*[x] Catch up on SPARQL
+*[~] Catch up on SPARQL
 
 
 ### Past
@@ -35,3 +36,8 @@ assigned:jom
 
 *[x] Try out SPARQLWrapper
 
+*[x] Integrate script for fetching metadata with RAG
+
+*[x] Get actual metadata with SPARQL endpoint and play with it
+
+*[x] Optimize RAG
