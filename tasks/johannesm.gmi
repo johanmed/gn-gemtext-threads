@@ -5,19 +5,16 @@
 kanban:jom
 assigned:jom
 
+## Notes
+- Aim for an abstract comparing the performance of GNQA with current proprietary model and open source model
+
 ## Tasks
 
 ### Ongoing
 
-*[x] Study precompute issue
+* Document work on issue tracker
 
-*[x] Play with the SPARQL endpoint for BXD traits
-
-*[x] Try out RAG and agent prototype
-
-*[x] Transform RDF to plain language using an agent (LLM)
-
-*[x] Make the system multi-agentic
+* Give a try to current GNQA with open source model
 
 ### Later
 
@@ -41,3 +38,14 @@ assigned:jom
 *[x] Get actual metadata with SPARQL endpoint and play with it
 
 *[x] Optimize RAG
+
+*[x] Study precompute issue
+
+*[x] Play with the SPARQL endpoint for BXD traits
+
+*[x] Try out RAG and agent prototype
+
+*[x] Transform RDF to plain language using an agent (LLM)
+
+*[x] Make the system multi-agentic
+
