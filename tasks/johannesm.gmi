@@ -4,6 +4,7 @@
 
 kanban:jom
 assigned:jom
+status: in progress
 
 ## Notes
 - Aim for an abstract comparing the performance of GNQA with current proprietary model and open source model
@@ -12,9 +13,11 @@ assigned:jom
 
 ### Ongoing
 
-* Document work on issue tracker
+*[~] Keep experimenting with RAG/agent
 
-* Give a try to current GNQA with open source model
+*[] Document work on issue tracker
+
+*[] Give a try to current GNQA with open source model
 
 ### Later
 
@@ -49,3 +52,6 @@ assigned:jom
 
 *[x] Make the system multi-agentic
 
+*[x] Revisit precompute issue
+
+*[x] Get Claude tokens
